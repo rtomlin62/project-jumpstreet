@@ -6,12 +6,12 @@ function App() {
   return (
     <div className="App">
       <Timer 
-        //DONT FORGET TO SET THE TIMER HERE
+        //1. DONT FORGET TO SET THE TIMER HERE
         guestCount={5}
         signatures={{
-          //AGENTS NAME GOES HERE
+          //2. AGENTS NAME GOES HERE
           agent: "YOUR NAME",
-          //MISSION CONTROL PERSONNEL GOES HERE
+          //3. MISSION CONTROL PERSONNEL GOES HERE
           missionControl: [
                             "Mission Control 1",
                             "Mission Control 2",
