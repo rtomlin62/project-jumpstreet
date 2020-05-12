@@ -12,6 +12,7 @@ function App() {
           //2. AGENTS NAME GOES HERE
           agent: "YOUR NAME",
           //3. MISSION CONTROL PERSONNEL GOES HERE
+          //IF YOU NEED HELP, LOOK ON YOUR DESKTOP
           missionControl: [
                             "Mission Control 1",
                             "Mission Control 2",

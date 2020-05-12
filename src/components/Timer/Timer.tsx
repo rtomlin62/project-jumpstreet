@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react'
 import HiddenComponent, { HiddenComponentProps } from '../HiddenComponent/HiddenCompent'
 
 //I FOUND SEA SHELLS SWISHING IN THE SAND BY THE SEA SHORE
-//4. SHELL OF COMPONENT
+//4. PROPS NEEDED TO START THE TIMER
 type TimerProps = {
     guestCount: number,
     signatures: HiddenComponentProps
